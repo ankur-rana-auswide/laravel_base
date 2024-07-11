@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="24" height="24" transform="translate(-1052 405)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(1052 -405)" clip-path="url(#clip-path)">
+    <g id="Icon_ion-briefcase" data-name="Icon ion-briefcase" transform="translate(-1052 406.6)">
+      <path id="Path_36" data-name="Path 36" d="M30.585,5.625H13.008A1.758,1.758,0,0,0,11.25,7.383V9.14H32.343V7.383A1.758,1.758,0,0,0,30.585,5.625Z" transform="translate(-9.796 -2.11)" fill="none"/>
+      <path id="Path_37" data-name="Path 37" d="M25.125,9.775a3.2,3.2,0,0,0-3.2-3.2h-2.4v-.8a2.4,2.4,0,0,0-2.4-2.4h-8a2.4,2.4,0,0,0-2.4,2.4v.8h-2.4a3.2,3.2,0,0,0-3.2,3.2v2.4h24Zm-7.2-3.2h-9.6v-.8a.8.8,0,0,1,.8-.8h8a.8.8,0,0,1,.8.8Zm-.8,7.6a1.2,1.2,0,0,1-1.2,1.2h-5.6a1.2,1.2,0,0,1-1.2-1.2v-.2a.2.2,0,0,0-.2-.2h-7.8v7.2a3.2,3.2,0,0,0,3.2,3.2h17.6a3.2,3.2,0,0,0,3.2-3.2v-7.2h-7.8a.2.2,0,0,0-.2.2Z" transform="translate(-1.125 -3.375)"/>
+    </g>
+  </g>
+</svg>

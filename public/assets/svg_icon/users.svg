@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="24" height="24" transform="translate(-338 287)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(338 -287)" clip-path="url(#clip-path)">
+    <path id="Icon_fa-solid-user-tie" data-name="Icon fa-solid-user-tie" d="M10.5,12a6,6,0,1,1,6-6A6,6,0,0,1,10.5,12Zm-.7,4.838L8.93,15.384a.749.749,0,0,1,.642-1.134h1.852a.75.75,0,0,1,.642,1.134l-.872,1.453,1.566,5.808,1.688-6.886a.694.694,0,0,1,.839-.53A7.562,7.562,0,0,1,21,22.561,1.439,1.439,0,0,1,19.561,24H13.383a.738.738,0,0,1-.272-.052l.014.052H7.875l.014-.052A.757.757,0,0,1,7.617,24H1.439A1.442,1.442,0,0,1,0,22.561,7.559,7.559,0,0,1,5.714,15.23a.7.7,0,0,1,.839.53l1.688,6.886,1.566-5.808Z" transform="translate(-336.5 287)"/>
+  </g>
+</svg>

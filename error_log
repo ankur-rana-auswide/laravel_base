@@ -1,0 +1,2 @@
+[06-Mar-2024 06:42:18 UTC] PHP Fatal error:  Allowed memory size of 956301312 bytes exhausted (tried to allocate 16384 bytes) in /home/pdwstaging/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[06-Mar-2024 06:42:18 UTC] PHP Fatal error:  Allowed memory size of 956301312 bytes exhausted (tried to allocate 32768 bytes) in /home/pdwstaging/public_html/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php on line 1

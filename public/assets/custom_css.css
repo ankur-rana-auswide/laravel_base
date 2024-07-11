@@ -1,0 +1,153 @@
+.hierarchi:hover {
+    color : blue;
+}
+
+.tr_sm_font > td {
+    font-size: 10px !important;
+}
+
+/*tr > th {
+    font-size: 15px !important;
+}*/
+
+.select2-container--default .select2-selection--single .select2-selection__clear {
+    line-height: 38px !important;
+    font-size: 20px !important;
+    color: #0000ffa3 !important;
+    font-weight: 500;
+}
+
+.a_link {
+    color: #0000ffa3 !important;
+/*                text-decoration: underline !important;*/
+}
+
+tbody.divider_padding tr:first-child td {
+padding-top: 16px!important;
+}
+
+th,td,.text-base,.select2-selection__rendered {
+    font-size: 0.875rem !important;
+}
+
+input[name="with_selected_id_name"] {
+    vertical-align: middle; 
+}
+
+.text-red-600 {
+    font-size: 13px;
+}
+
+
+.def_no_re {
+    font-weight : 300 !important;
+}
+
+.red_link {
+    color: red !important;
+}
+
+#range_list_html{
+    overflow: scroll;
+    height : 200px !important;
+}
+
+.select-full-width .select2-container .select2-selection--single,.select2-container--default .select2-selection--single {
+    border-radius: 6px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color  : rgb(0 0 0 / var(--tw-text-opacity));
+}
+
+#screenshot_container img {
+width: 100%;
+height: 100%;
+float: left;
+padding: 3px;
+}
+#screenshot_container{overflow: auto;padding: 0px;height: 100px; border: 1px solid #ccc;caret-color: transparent;}
+textarea{border: 1px solid #ccc;}
+
+
+.bg-\[\#1D1D1D\] {
+--tw-bg-opacity: 1;
+background-color: #D4A848 !important;
+/* background: #D4A848 0% 0% no-repeat padding-box; */
+}
+
+.text-\[\#808080\] {
+color: #000000 !important;
+}
+
+/*.hover\:bg-\[\#1D1D1D\]:hover {*/
+/*background-color: #D4A848 !important;*/
+
+/*}*/
+
+
+button.hover\:bg-gray-100:hover {
+background-color: #d4a8484f;
+
+}
+
+
+.active-button {
+    
+    background-color: #d4a848;
+}
+
+
+li > a >span.hover\:bg-gray-100:hover {
+color: #d4a848 !important;
+}
+
+button[type=submit],label[for=fileUploadInput] {
+background: #000000 0% 0% no-repeat padding-box !important;
+color: #d4a848 !important;
+text-transform: uppercase !important;
+}
+
+
+button[type=submit]:hover,label[for=fileUploadInput]:hover {
+    background: #d4a848!important;
+    color: white !important;
+    text-transform: uppercase !important;
+}
+
+
+body {
+font-family: 'Open Sans', sans-serif !important;
+}
+
+.duration-75,.cus_font {
+/*font-weight: 500 !important;*/
+
+}
+
+.cus_mob_li {
+font-weight: 500 !important;
+}
+
+
+input::placeholder,.cust_search {
+    font-size:14px;
+    color: #ccc !important;
+}
+
+input[type="search"]::placeholder {
+color : black !important;
+}
+
+
+.btn-dark.focus, .btn-dark:focus {
+    box-shadow: none !important;
+}
+
+/* max - 1024  min - 767*/
+
+@media only screen and (max-width: 767px) {
+   .log_hover {
+    width: 256px !important;
+   }
+}
